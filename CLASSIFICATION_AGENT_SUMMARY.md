@@ -14,7 +14,7 @@
 
 ### Modified Files:
 1. **`backend/app/main.py`**
-   - Removed simple classification logic (lines 171-203)
+   - Removed simple classification logic
    - Integrated ECG classifier agent
    - Updated both `/episodes/{id}` and `/episodes/{id}/classify` endpoints
 
